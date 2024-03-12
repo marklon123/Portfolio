@@ -498,6 +498,12 @@ body {
     margin-right: 2px;
 }
 
+.userName {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: 10px;
+}
+
 .card-title {
     margin: 12px 0;
     font-size: 20px;
