@@ -501,8 +501,11 @@ body {
 .userName {
     display: flex;
     flex-wrap: nowrap;
-    margin: 0;
     margin-bottom: 10px;
+}
+
+.userName > h4 {
+    margin-right: 2px;
 }
 
 .card-title {
